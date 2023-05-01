@@ -27,8 +27,13 @@ If you have any feedback, suggestions, or bug reports, please feel free to open 
 ## Authors
 
 - [Zeeshan Mukhtar](https://www.linkedin.com/in/zeeshanmukhtar1/)
+- Textify is a web application developed by [Zeeshan Mukhtar](https://www.instagram.com/zeshanmukhtar01/), designed to provide a quick and efficient way to manipulate and analyze text data.
 
 ## Screenshots
 
 ![Textify Screenshot](./Src/Home__ss.png)
 ![Textify Screenshot](./Src/faq__ss.png)
+
+### Live Demo
+
+To see a live demo of Textify in action, [visit this](https://zeeshanmukhtar1.github.io/Textify/) and try out its features for yourself.
