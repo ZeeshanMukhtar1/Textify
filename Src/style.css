@@ -12,3 +12,39 @@ body {
 #Word__count {
     font-weight: bold;
 }
+
+/* Media query for small screens */
+@media only screen and (max-width: 767px) {
+
+    /* Adjust styles for small screens */
+    .app__title {
+        font-size: 1.2rem;
+    }
+
+    /* Reduce height of textarea */
+    #Inp__text {
+        height: 150px;
+    }
+
+    /* Adjust button styles */
+    .buttons button {
+        margin-bottom: 10px;
+        width: 100%;
+        margin-left: 5px !important;
+        margin-right: 5px !important;
+    }
+
+    .info {
+        text-align: center;
+        font-size: small;
+
+    }
+
+    p {
+        text-align: center;
+    }
+
+    body {
+        overflow-x: hidden;
+    }
+}
