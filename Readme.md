@@ -36,4 +36,4 @@ If you have any feedback, suggestions, or bug reports, please feel free to open 
 
 ### Live Demo
 
-To see a live demo of Textify in action, [visit this](https://zeeshanmukhtar1.github.io/Textify/) and try out its features for yourself.
+To see how Textify works, just click on [ this link](https://zeeshanmukhtar1.github.io/Textify/). It's a hands-on way to try out Textify and explore what it can do for you.
