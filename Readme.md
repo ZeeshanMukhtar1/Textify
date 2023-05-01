@@ -10,6 +10,13 @@ The Textify App is a simple web application that provides various text manipulat
 - Copy the input text to the clipboard
 - Clear the input text
 
+## Where Textify Can be Used
+
+- Preparing Text for a Research Paper
+- Cleaning Up a Large Dataset
+- Formatting Text for Social Media
+- Editing and Proofreading Documents
+
 ## Installation
 
 To use the Textify App, simply open the index.html file in your web browser.
